@@ -165,4 +165,19 @@ margin-left: 200px;
   {
     text-align: center;
   }
+
+}
+@media(max-width: 1028px)
+{
+  .title-image
+  {
+    margin-left: 200px;
+  }
+}
+@media(max-width: 1028px)
+{
+  .haha
+  {
+    margin-left: 400px;
+  }
 }
